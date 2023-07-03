@@ -1,0 +1,1 @@
+# TDRConv-Exploring-the-Trade-off-Between-Feature-Diversity-and-Redundancy-for-a-Compact-CNN-Module
